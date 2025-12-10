@@ -1,4 +1,4 @@
-# filehasher
+# 1. filehasher
 
 Since the challenge explicitly states to define an activity with the intent filter for `com.mobiotsec.intent.action.HASHFILE`, I just added it to the main activity in the manifest, but I was still getting the `ActivityNotFoundException` message. 
 
